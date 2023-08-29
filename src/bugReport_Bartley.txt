@@ -1,0 +1,25 @@
+Bug Reporter: Grace Bartley
+Class: SDEV 200
+Date: August 29, 2023
+Bug Report: Programming Assignment Chapters 1 – 5
+Chapter 1 Exercise 5:
+	The program was a very simple math problem. 
+Issues: No Issues
+
+Chapter 2 Exercise 3:
+	The program had you input any number of feet and convert it to meters.
+Issues: No Issues
+
+Chapter 3 Exercise 15:
+	This program is supposed to let you input 3 random numbers and will bring up three random numbers and see if you matched any numbers.
+Issues: Ran into a problem where even if you didn’t match a single number, it would still state that you matched one number.
+Resolved: There was an issue with an “else if” statement.
+
+Chapter 4 Exercise 23:
+	The program will let you input an employee’s information and stats which will then roll out a payroll statement for that employee.
+Issue: Had issues with getting the decimal and currency system to work correctly.
+Resolved: There needed to be string statements for the currency and decimal system listed below.
+
+Chapter 5 Exercise 5:
+	This program asks to write a table that converts Kilograms to Pounds and Pounds to Kilograms.
+Issues: No Issues
