@@ -17,12 +17,12 @@ public class Exercise15 {
         
         // Receiving the digits
         int lotteryDigit1 = lottery / 100;
-        int lotteryDigit2 = lottery % 100 / 10;
+        int lotteryDigit2 = (lottery % 100) / 10;
         int lotteryDigit3 = lottery % 10;
         
         // Receiving the guessed digits
         int guessDigit1 = lottery / 100;
-        int guessDigit2 = lottery % 100 / 10;
+        int guessDigit2 = (lottery % 100) / 10;
         int guessDigit3 = lottery % 10;
         
         // Results
