@@ -8,7 +8,6 @@ public class Exercise1 {
     static final int THRESHOLD = 4;
     
     public static void main(String[] args) {
-        // TODO code application logic here
         // Chapter 7 Exercise 1
         Scanner input = new Scanner(System.in);
         System.out.print("Enter the number of students: ");
