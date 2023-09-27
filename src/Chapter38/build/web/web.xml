@@ -1,0 +1,16 @@
+<web-app>
+    <welcome-file-list>
+        <welcome-file>Exercise$14</welcome-file>
+    </welcome-file-list>
+    
+    <servlet>
+        <servlet-name>quizAnswers</servlet-name>
+        <servlet-class>QuizAnswerServlet</servlet-class>
+    </servlet>
+    
+    <servlet-mapping>
+        <servlet-name>quizAnswers</servlet-name>
+        <url-pattern>/quizAns</url-pattern>
+    </servlet-mapping>
+</web-app>
+
